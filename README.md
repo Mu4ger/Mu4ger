@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Munkhdelger (Delger)
 👨‍💻 I am a CS | Business Analytics double major @ DePauw University, passionate about bridging the gap between technology and business. I thrive at the intersection of software development and business analytics, where I use Python, machine learning, and AI to drive innovation and solve complex problems.<br/>
 📜 Aspiring software engineer from Ulaanbaatar, Mongolia 🇲🇳. I am fascinated by the intersection between business and software. <br/>
-🎲 In my free time I love playing basketball, working out, and reading books <br/>
 📊 I’m fascinated by how data can be turned into insights, and I’m on a journey to master AI and machine learning to help businesses make smarter decisions. Whether it’s building predictive models, automating workflows, or enhancing customer experiences, I love exploring how technology can create real value.<br/>
 💡 As an entrepreneur, I've always been eager to tackle challenges head-on. I’ve started multiple businesses in Mongolia, including a successful lawnmowing company that continues to thrive. This hands-on experience has taught me how to combine technical expertise with strategic thinking, and I’m always on the lookout for my next venture. <br/>
 📚 In my free time, you’ll find me playing basketball, working out, or diving into a good book.
